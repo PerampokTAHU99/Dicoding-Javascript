@@ -1,3 +1,4 @@
+//inheretance
 class SmartPhones {
     constructor(color, brand, model) {
         this.color = color;
